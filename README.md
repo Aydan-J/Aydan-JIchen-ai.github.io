@@ -11,3 +11,18 @@
         </div>
     </div>
 </html>
+
+
+
+
+div {
+    font-size: 100px;
+}
+
+.myfirstclass {
+    background-color:red;
+}
+
+.divThree {
+    background-color: blue;
+} 
