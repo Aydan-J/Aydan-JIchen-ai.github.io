@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 <html>
-  <div>
+  <link rel="stylesheet" type="text/css" href="style.css"/>
+  <div class="myfirstclass">
     hi 
-    <div>
+    <div class="divTwo">
       hello
-        <div>
-        howdy change
+        <div class="divThree">
+        howdy
         </div>
     </div>
   </div>
+  <hmtl>
 
 #git add #file name, git commit #message, and git push
 #This is a test
