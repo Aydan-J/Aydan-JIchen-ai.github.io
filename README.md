@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html>
-  <div>
-    hi 
-    <div>
-      hello
-        <div>
-        howdy change
+    <links rel="stylesheet" type="text/css" href="style.css"/>
+    <div class="div0ne">
+        hi
+        <div class="divTwo">
+            hello
+            <div class="divThree">
+                howdy
+            </div>
         </div>
     </div>
-  </div>
-
-#git add #file name, git commit #message, and git push
-#This is a test
+</html>
