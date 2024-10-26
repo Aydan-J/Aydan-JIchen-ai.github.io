@@ -1,11 +1,11 @@
 div {
-    font-size: 100;
+    font-size: 100px;
 }
 
 .divOne {
-    background-color: #ff5733;
+    background-color: red;
 }
 
 .divThree {
-    background-color: #337aff;
+    background-color: blue;
 }
